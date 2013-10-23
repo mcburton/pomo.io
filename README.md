@@ -1,4 +1,6 @@
-pomo.io
+pomo.io - Welcome to the Post-Modern WEb
 =======
 
-Your #1 source for postmodern web develoment
+# PMW'D
+
+Your #1 source for pmwgramming.
