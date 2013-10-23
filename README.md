@@ -1,4 +1,1 @@
-pomo.io
-=======
-
-Your #1 source for postmodern web develoment
+This branch is boring. You should check out the gh-pages branch.
